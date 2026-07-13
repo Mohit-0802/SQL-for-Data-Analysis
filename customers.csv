@@ -1,0 +1,31 @@
+customer_id,customer_name,city,state,signup_date
+1,Rahul Verma,Pune,Maharashtra,2024-05-05
+2,Rohit Gupta,Kanpur,Uttar Pradesh,2024-12-12
+3,Ashok Sharma,Bhopal,Madhya Pradesh,2024-08-04
+4,Sandeep Verma,Kanpur,Uttar Pradesh,2024-04-21
+5,Rohit Kumar,Bhopal,Madhya Pradesh,2024-01-14
+6,Ashok Singh,,Bihar,2024-08-02
+7,Rohit Pandey,Bhopal,Madhya Pradesh,2024-05-22
+8,Amit Gupta,Bengaluru,Karnataka,2024-06-23
+9,Kavita Gupta,Mumbai,Maharashtra,2025-05-05
+10,Pooja Sharma,Kanpur,Uttar Pradesh,2024-07-13
+11,Rahul Mishra,Jaipur,Rajasthan,2024-11-05
+12,Kavita Verma,Chennai,Tamil Nadu,2024-10-01
+13,Rahul Agarwal,Kanpur,Uttar Pradesh,2024-10-09
+14,Suresh Tiwari,Jaipur,Rajasthan,2024-10-22
+15,Anjali Sharma,Lucknow,Uttar Pradesh,2024-12-04
+16,Rohit Yadav,Kanpur,Uttar Pradesh,2025-03-13
+17,Rohit Sharma,Bengaluru,Karnataka,2024-05-22
+18,Sunita Mishra,,Delhi,2024-07-08
+19,Manoj Singh,Pune,Maharashtra,2024-12-25
+20,Priya Tiwari,Delhi,Delhi,2024-09-30
+21,Rohit Gupta,Chennai,Tamil Nadu,2024-07-13
+22,Kavita Kumar,Mumbai,Maharashtra,2024-12-16
+23,Pooja Verma,Mumbai,Maharashtra,2025-02-24
+24,Sandeep Mishra,Bengaluru,Karnataka,2024-05-17
+25,Priya Singh,Bhopal,Madhya Pradesh,2025-03-24
+26,Pooja Singh,Chennai,Tamil Nadu,2024-07-21
+27,Sunita Gupta,Pune,Maharashtra,2024-03-12
+28,Rohit Kumar,Patna,Bihar,2024-05-14
+29,Divya Agarwal,Bhopal,Madhya Pradesh,2024-07-23
+30,Manoj Singh,Delhi,Delhi,2024-09-17
